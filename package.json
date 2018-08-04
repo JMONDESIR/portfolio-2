@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMONDESIR/portfolio-2.git"
+  },
+  "author": "Joel Mondesir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMONDESIR/portfolio-2/issues"
+  },
+  "homepage": "https://github.com/JMONDESIR/portfolio-2#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
